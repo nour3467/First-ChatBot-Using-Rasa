@@ -1,4 +1,4 @@
-A simple Rasa 3.0 assistant that plays rock, paper scissors. Code from the Rasa 3.0 launch event livecoding. You can view the livecoding video here: 
+A simple Rasa 3.0 assistant that plays rock, paper scissors. 
 
 To run: 
 
